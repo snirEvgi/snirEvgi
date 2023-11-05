@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, RabbitMQ, Socket.io**
 
-- 💬 Ask me about **React,Api,TypeScript**
+- 💬 Ask me about **React, Api, TypeScript**
 
 - 📫 How to reach me **Snirevg@gmail.com**
 
